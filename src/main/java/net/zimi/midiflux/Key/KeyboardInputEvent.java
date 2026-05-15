@@ -1,4 +1,4 @@
-package org.example;
+package net.zimi.midiflux.Key;
 
 import java.awt.event.KeyAdapter;
 

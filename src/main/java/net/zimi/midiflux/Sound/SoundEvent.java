@@ -1,4 +1,4 @@
-package org.example;
+package net.zimi.midiflux.Sound;
 
 import javax.sound.midi.MidiChannel;
 import javax.sound.midi.MidiSystem;

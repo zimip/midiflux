@@ -1,4 +1,6 @@
-package org.example;
+package net.zimi.midiflux.Gui;
+
+import net.zimi.midiflux.Key.KeyLayout;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;

@@ -1,4 +1,6 @@
-package org.example;
+package net.zimi.midiflux.Key;
+
+import net.zimi.midiflux.Gui.PianoKeyboardPanel;
 
 import javax.swing.*;
 import java.awt.event.KeyEvent;

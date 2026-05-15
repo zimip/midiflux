@@ -1,4 +1,4 @@
-package org.example;
+package net.zimi.midiflux.Gui;
 
 import javax.swing.*;
 import javax.swing.filechooser.FileNameExtensionFilter;

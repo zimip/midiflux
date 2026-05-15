@@ -1,4 +1,7 @@
-package org.example;
+package net.zimi.midiflux.Key;
+
+import net.zimi.midiflux.Sound.Note;
+import net.zimi.midiflux.Sound.SoundEvent;
 
 import java.awt.event.KeyEvent;
 

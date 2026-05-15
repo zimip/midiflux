@@ -1,4 +1,6 @@
-package org.example;
+package net.zimi.midiflux.Sound;
+
+import net.zimi.midiflux.Key.KeyLayout;
 
 public class Note {
 
