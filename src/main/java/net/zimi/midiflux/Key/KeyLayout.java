@@ -7,9 +7,6 @@ import java.util.Map;
 import java.util.Set;
 
 public final class KeyLayout {
-    private KeyLayout() {
-    }
-
     public static final int[] FIRST_OCTAVE = {KeyEvent.VK_A, KeyEvent.VK_W, KeyEvent.VK_S, KeyEvent.VK_E, KeyEvent.VK_D, KeyEvent.VK_F, KeyEvent.VK_T, KeyEvent.VK_G};
 
     public static final int[] SECOND_OCTAVE = {KeyEvent.VK_Y, KeyEvent.VK_H, KeyEvent.VK_U, KeyEvent.VK_J, KeyEvent.VK_K};

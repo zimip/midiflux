@@ -3,7 +3,7 @@ package net.zimi.midiflux;
 import net.zimi.midiflux.Gui.PianoGui;
 import net.zimi.midiflux.Key.KeyboardInput;
 
-import javax.swing.SwingUtilities;
+import javax.swing.*;
 
 public class Main {
     static void main() {
