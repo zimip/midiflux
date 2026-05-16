@@ -11,8 +11,7 @@ public class Main {
             PianoGui gui = new PianoGui();
             gui.show();
 
-            int baseMidi = 60;
-            new KeyboardInput(gui.getFrame(), gui.getPianoPanel(), baseMidi);
+            new KeyboardInput(gui.getFrame(), gui.getPianoPanel());
         });
     }
 }

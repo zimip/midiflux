@@ -10,13 +10,12 @@ import java.util.Set;
 public class KeyboardInput {
     private final JFrame inputFrame;
     private final PianoKeyboardPanel pianoPanel;
-    private int baseMidi;
+    private int baseMidi = 60;
     private final Set<Integer> pressedKeys = new HashSet<>();
 
-    public KeyboardInput(JFrame inputFrame, PianoKeyboardPanel pianoPanel, int baseMidi) {
+    public KeyboardInput(JFrame inputFrame, PianoKeyboardPanel pianoPanel) {
         this.inputFrame = inputFrame;
         this.pianoPanel = pianoPanel;
-        this.baseMidi = baseMidi;
         this.pianoPanel.setBaseMidi(baseMidi);
         this.init();
     }
