@@ -12,6 +12,8 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 
+// N.B: Alcune parti del codice sono state realizzate con l'aiuto dell'Intelligenza Artificiale
+
 public class PianoKeyboardPanel extends JPanel {
     private final int[] keyCodes;
     private final String[] labels;

@@ -4,6 +4,7 @@ import javax.swing.*;
 import javax.swing.filechooser.FileNameExtensionFilter;
 import java.awt.*;
 
+// N.B: Alcune parti del codice sono state realizzate con l'aiuto dell'Intelligenza Artificiale
 public class PianoGui {
     private final JFrame frame;
     private final PianoKeyboardPanel pianoPanel;
