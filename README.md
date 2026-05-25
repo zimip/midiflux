@@ -23,4 +23,4 @@ Clonare la repository ed eseguire il comando:
 mvn package
 ```
 
-La build completata sarà salvata all'interno della cartella `/target/`.
+La build completata sarà salvata all'interno della cartella `/target/` nella root del progetto.
