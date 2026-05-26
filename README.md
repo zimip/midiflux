@@ -1,3 +1,5 @@
+![Logo](./assets/logo.png)
+
 # Repository pubblica – Progetto scolastico MidiFlux
 
 ## Nota importante
