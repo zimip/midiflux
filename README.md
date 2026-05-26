@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/logo.png" width="200" alt="Logo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/logo-light.png">
+    <img src="./assets/logo.png" width="200">
+  </picture>
 </p>
 
 # Repository pubblica – Progetto scolastico MidiFlux
