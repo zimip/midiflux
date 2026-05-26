@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/logo.png" width="200" alt="Logo">
+</p>
+
 # Repository pubblica – Progetto scolastico MidiFlux
 
 ## Nota importante
