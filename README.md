@@ -17,11 +17,23 @@ Il plugin Maven per la generazione del file `MANIFEST.MF` è già incluso nel pr
 - **JDK**: versione 25 o 26
 - **Maven**: installato e configurato nel `PATH` (obbligatorio)
 
-## Compilazione
+## Clonazione della repository
 
-Clonare la repository ed eseguire uno dei seguenti comandi.
+```bash
+git clone https://github.com/zimip/midiflux.git
+```
 
-### Generazione JAR
+Entrare nella cartella del progetto:
+
+```bash
+cd MidiFlux
+```
+
+---
+
+# Compilazione ed esecuzione
+
+## Generazione JAR
 
 ```bash
 mvn package
@@ -29,7 +41,7 @@ mvn package
 
 La build completata sarà disponibile nella cartella `/target/` presente nella root del progetto.
 
-### Esecuzione della classe Main
+## Esecuzione della classe Main
 
 ```bash
 mvn compile exec:java -Dexec.mainClass="net.zimi.midiflux.Main"
