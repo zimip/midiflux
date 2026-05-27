@@ -28,7 +28,7 @@ git clone https://github.com/zimip/midiflux.git
 Entrare nella cartella del progetto:
 
 ```bash
-cd MidiFlux
+cd percorso/al/progetto
 ```
 
 ---
