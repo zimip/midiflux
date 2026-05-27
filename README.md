@@ -53,7 +53,7 @@ Verrà eseguita la classe `Main` senza generare alcun artefatto.
 
 ## Alternativa con Releases
 
-Scaricare il Jar trovato in [qui](https://github.com/zimip/midiflux/releases/tag/midiflux)
+Scaricare il Jar trovato [qui](https://github.com/zimip/midiflux/releases/tag/midiflux)
 
 ```bash
 java -jar midiflux.jar
