@@ -9,6 +9,9 @@
 - Gli strumenti di IA sono stati utilizzati esclusivamente come supporto creativo e per il miglioramento estetico e visivo del progetto.
 
 ---
+# Documentazione di progetto
+
+La documentazione è consultabile [qui](https://pdfhost.io/it-IT/v/jsF2W8Nyy8_Documentazione_progetto_MidiFlux_ver_3_0)
 
 # Build del progetto
 
