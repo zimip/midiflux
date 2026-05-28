@@ -11,8 +11,8 @@
 ---
 # Documentazione di progetto
 
-La documentazione è consultabile [qui](https://pdfhost.io/it-IT/v/jsF2W8Nyy8_Documentazione_progetto_MidiFlux_ver_3_0) in formato PDF
-**N.B: La licenza della presentazione non è condivisa con quella del progetto**
+La documentazione è consultabile [qui](https://pdfhost.io/it-IT/v/jsF2W8Nyy8_Documentazione_progetto_MidiFlux_ver_3_0) in formato PDF  
+**N.B: La licenza della documentazione non è condivisa con quella del progetto**
 
 # Build del progetto
 
